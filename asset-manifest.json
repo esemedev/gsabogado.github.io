@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gsabogado/static/css/main.ae42ac5f.css",
+    "main.js": "/gsabogado/static/js/main.c3f61213.js",
+    "index.html": "/gsabogado/index.html",
+    "main.ae42ac5f.css.map": "/gsabogado/static/css/main.ae42ac5f.css.map",
+    "main.c3f61213.js.map": "/gsabogado/static/js/main.c3f61213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.c3f61213.js"
+  ]
+}
